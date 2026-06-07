@@ -2,7 +2,7 @@
 
 **Make any AI think like Claude Opus.**
 
-A tiny set of copy-paste prompts that reshape how ChatGPT, Gemini, Cursor, Antigravity, or any other model *behaves* — so it reasons before it answers, tells you the truth instead of flattering you, and writes like a sharp human instead of a content mill.
+A tiny set of copy-paste prompts that reshape how ChatGPT, Gemini, Cursor, Antigravity, or any other model *behaves* - so it reasons before it answers, tells you the truth instead of flattering you, and writes like a sharp human instead of a content mill.
 
 No install. No API key. No extension. Copy one block, paste it where your AI takes instructions, done.
 
@@ -67,4 +67,4 @@ Got a variant that works better on a specific model? A condensed version that fi
 
 ## 📄 License
 
-MIT — do whatever you want with it. A ⭐ is appreciated but never required.
+MIT - do whatever you want with it. A ⭐ is appreciated but never required.
