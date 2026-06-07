@@ -65,6 +65,8 @@ The complete prompt lives in [`prompts/system-prompt.md`](prompts/system-prompt.
 
 Got a variant that works better on a specific model? A condensed version that fits a tighter character limit? A killer before/after example? PRs welcome. Keep prompts original (no leaked/proprietary system prompts) and keep the tone the prompts themselves preach: tight, honest, no fluff.
 
+MADE BY PARTH ❤️
+
 ## 📄 License
 
 MIT - do whatever you want with it. A ⭐ is appreciated but never required.
